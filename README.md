@@ -20,7 +20,7 @@
 
  This extension includes some snippets to develop a model in your VS Code editor. It requires the minimum version of tensorflow is **2.0**. The inside **keras** package will be used in this extension. For more information, please go to [Key Features](#Key-Features) .
 
-![ctrl](./images/ctrl.gif)
+![ctrl](https://github.com/changkaiyan/tensorflow2snippets/raw/master/images/ctrl.gif)
 
 ## Support
 
@@ -118,7 +118,7 @@ tfk:code:translate # Code for NLP-translate
 tfk:code:word_embeddings # Code for NLP-word embeddings
 ~~~
 
-![code](./images/code.gif)
+![code](https://github.com/changkaiyan/tensorflow2snippets/raw/master/images/code.gif)
 
 ## How to Contribute
 

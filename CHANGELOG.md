@@ -2,4 +2,8 @@
 
 Adds snippets for Tensorflow 2.0 to Visual Studio Code. Supports:
 
-* Multi
+* Multiple data set loading
+
+* Control flow statement
+
+* Code frame
