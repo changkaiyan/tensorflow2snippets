@@ -3,7 +3,7 @@
 	"displayName": "Tensorflow 2.0 Snippets",
 	"description": "TensorFlow 2.0 Snippets for VS Code",
 	"version": "0.1.0",
-	"publisher": "ChangKaiyan",
+	"publisher": "Kaiyan Chang",
 	"keywords": ["tensorflow", "snippets", "deeplearning"],
 	"icon": "images/tf.png",
 	"engines": {
