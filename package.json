@@ -1,0 +1,32 @@
+{
+	"name": "tf2Snippets",
+	"displayName": "Tensorflow 2.0 Snippets",
+	"description": "TensorFlow 2.0 Snippets for VS Code",
+	"version": "0.1.0",
+	"publisher": "ChangKaiyan",
+	"keywords": ["tensorflow", "snippets", "deeplearning"],
+	"icon": "images/icon.png",
+	"engines": {
+		"vscode": "^1.28.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "python",
+				"path": "./snippets.json"
+			}
+		]
+	},
+	"license": "MIT",
+    "bugs": {
+        "url": "https://github.com/changkaiyan/tensorflow2snippets/issues"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/changkaiyan/tensorflow2snippets"
+    },
+    "homepage": "https://github.com/changkaiyan/vscode-plugin-demotensorflow2snippets/blob/master/README.md"
+}
